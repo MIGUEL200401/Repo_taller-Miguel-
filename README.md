@@ -23,8 +23,8 @@ El archivo `index.html` contiene una estructura semántica básica con:
 
 ## Tecnologías utilizadas
 
-* HTML5
-* CSS3
+* HTML
+* CSS
 * Git
 * GitHub
 * Visual Studio Code
